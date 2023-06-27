@@ -9,3 +9,5 @@ There are several technique that I used before modelling, such as:
 - Hyperparameter tuning using GridSearchCV to find an optimal parameters to be used in the XGBoost model
 
 For modelling, I did a accuracy comparison between XGBoost with defaul parameter and parameter after doing the hyperparameter tuning (using the best parameter)
+
+To see the explanation of this project, open this link: https://docs.google.com/presentation/d/1lxNft3O25b10ilhm3OXmN0yHEvsnSgaFTGEIA6K9huM/edit?usp=sharing
