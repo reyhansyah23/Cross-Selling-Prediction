@@ -1,4 +1,4 @@
-# Machine_Learning_Project
+# Cross Selling Prediction Using XGboost
 
 This project is a machine learning project of a prediction of cross selling dataset. The objective of the model is to predict whether health insurance policyholders are interested in vehicle insurance in the same company using the XGBoost model.
 
